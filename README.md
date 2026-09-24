@@ -61,3 +61,5 @@ Then open http://localhost:8501 in your browser.
 ## Tech stack
 
 Python, Streamlit, pandas, NumPy, statsmodels, Plotly
+"Live app demo":
+https://time-series-trend-miner-tanisharayyan09.streamlit.app/
