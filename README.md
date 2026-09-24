@@ -4,7 +4,7 @@ A Streamlit dashboard for **temporal data mining**: spot trends and seasonality 
 
 **Live app:** https://YOUR-APP-NAME.streamlit.app
 
-**Author:** Nishanthini M
+**Author:** Tanisha Rayyan S 
 
 ## Features
 
